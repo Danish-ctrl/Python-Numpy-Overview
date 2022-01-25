@@ -5,4 +5,4 @@ Here are some python programs about Numpy module:
 	1.Comparison of Numpy with List in terms of space occupied by each elements and the time taken to execute those elements and methods.
 	2.Numpy arithmetic operations.
 	3.Numpy methods and its operations
-	4.Sine and Cosine method.
+	4.Sine and Cosine method..
